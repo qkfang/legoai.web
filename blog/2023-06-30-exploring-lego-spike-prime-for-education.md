@@ -1,5 +1,5 @@
 ---
-title: Exploring LEGO Spike Prime for education
+title: Exploring LEGO Spike Prime for Education
 authors: qkfang
 tags: [fll,fll-masterpiece,chatgpt,ai]
 ---
