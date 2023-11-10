@@ -1,0 +1,21 @@
+---
+title: Fresh Hobby Sharing App powered by AI (improved)
+authors: qkfang
+tags: [fll,fll-masterpiece,chatgpt,ai]
+---
+
+We are thrilled to share some exciting updates about **Fresh**, our AI-powered hobby-sharing app. Over the past few months, we've been working tirelessly to enhance your experience by incorporating valuable feedback from tech experts and our vibrant community.
+
+One of the significant improvements is the expansion of our hobby directory. We've added a plethora of new hobbies to ensure that everyone finds something that resonates with their interests. Whether you're into pottery, urban gardening, or drone racing, `Fresh` has got you covered.
+
+![alt text](/imgblog/fll-masterpiece-inno-app.png)
+
+Our chatbot has also received a significant upgrade. It now suggests nearby events based on your current location, making it easier for you to connect with like-minded enthusiasts in your area. Simply tell the chatbot what you're interested in, and it will provide personalized recommendations for events and meetups happening near you.
+
+![alt text](/imgblog/fll-masterpiece-inno-chatbot.png)
+
+We've also produced new tutorial videos to help you get the most out of `Fresh`. These guide you through the app's features and show you how to make the most of our platform.
+
+Moreover, we've made significant strides in enhancing the app's accessibility. `Fresh` is now fully functional on both desktop and mobile devices, ensuring you can stay connected to your hobbies anytime, anywhere.
+
+We couldn't have achieved these improvements without your invaluable feedback. Thank you for being a part of our journey. The girls are committed to continually enhancing Fresh to make it the best platform for hobby enthusiasts worldwide.
