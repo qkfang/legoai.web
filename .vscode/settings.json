@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/980fd58f-cfbb-4531-a3f1-9c7003ecb443/resourceGroups/as-legoai_group/providers/Microsoft.Web/sites/as-legoai",
+    "appService.deploySubpath": "."
+}
