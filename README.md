@@ -1,20 +1,15 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# LEGOAI.NET - Website README
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+Welcome to the **LEGO AI** website! This README provides an overview of what the site offers, how to navigate through it, and some technical details about its structure.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+---
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+## **Website Overview**
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+**LEGO AI** explores the intersection of **Artificial Intelligence (AI)** and **LEGO creations**, bridging creative engineering with modern machine learning concepts. The site is a hub for enthusiasts, researchers, and developers to explore AI-related projects, articles, and tools, with a unique spin on LEGO-based inspirations.
+
+### **URL:**  
+[https://legoai.net](https://legoai.net)  
+
+---
+
