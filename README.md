@@ -55,3 +55,14 @@ Welcome to the **LEGO AI** website! This README provides an overview of what the
 
 ---
 
+
+## **License**
+
+Content on the site is subject to copyright. Open-source tools or frameworks mentioned may have their own licensing. Please refer to individual project pages for specific licenses.
+
+---
+
+Thank you for visiting **LEGOAI.NET**! We hope you enjoy exploring the creative fusion of LEGO and AI.
+
+---
+
