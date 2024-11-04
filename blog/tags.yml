@@ -1,0 +1,41 @@
+
+fll:
+  label: fll
+  permalink: /fll
+  description: fll
+
+fll-masterpiece:
+  label: fll-masterpiece
+  permalink: /fll-masterpiece
+  description: fll-masterpiece
+  
+fll-submerged:
+  label: fll-submerged
+  permalink: /fll-submerged
+  description: fll-submerged
+
+ai:
+  label: ai
+  permalink: /ai
+  description: ai
+
+azure:
+  label: azure
+  permalink: /azure
+  description: azure
+
+chatgpt:
+  label: chatgpt
+  permalink: /chatgpt
+  description: chatgpt
+
+spike-prime:
+  label: spike-prime
+  permalink: /spike-prime
+  description: spike-prime
+
+  
+robotics:
+  label: robotics
+  permalink: /robotics
+  description: robotics
