@@ -1,5 +1,5 @@
 ---
-title: Countdown to FFL Submerged Nationals: Gearing Up for the Ultimate Challenge!
+title: Countdown to FFL Submerged Nationals - Gearing Up for the Ultimate Challenge!
 authors: qkfang
 tags: [fll,fll-submerged,ai]
 ---
