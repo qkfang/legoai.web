@@ -28,6 +28,34 @@ const config: Config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+  
+  plugins: [
+    [
+      '@docusaurus/plugin-ideal-image',
+      {
+        quality: 70,
+        max: 1030, // max resized image's size.
+        min: 640, // min resized image's size. if original is lower, use that size.
+        steps: 2, // the max number of images generated between min and max (inclusive)
+        disableInDev: false,
+      },
+    ],
+    [
+      '@docusaurus/plugin-sitemap',
+      {
+        lastmod: 'date',
+        changefreq: 'weekly',
+        priority: 0.5,
+        ignorePatterns: ['/tags/**'],
+        filename: 'sitemap.xml',
+        createSitemapItems: async (params) => {
+          const {defaultCreateSitemapItems, ...rest} = params;
+          const items = await defaultCreateSitemapItems(rest);
+          return items.filter((item) => !item.url.includes('/page/'));
+        },
+      },
+    ]
+  ],
 
   presets: [
     [
@@ -45,7 +73,7 @@ const config: Config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
-          postsPerPage: 'ALL',
+          postsPerPage: 10,
           blogSidebarTitle: 'All posts',
           blogSidebarCount: 'ALL',
         },
