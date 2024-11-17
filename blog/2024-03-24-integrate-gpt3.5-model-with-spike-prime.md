@@ -1,7 +1,7 @@
 ---
 title: Integrate GPT 3.5 model with Spike Prime 3
 authors: qkfang
-tags: [azure,spike-prime,ai]
+tags: [azure,spike-prime,robotics,ai]
 ---
 
 We've made great progress in our journey to fine-tune an AI model for Spike Prime robots. With the training dataset and validation dataset ready, it's time to take the next step: setting up an Azure endpoint and integrating it with our local Python script.

@@ -1,7 +1,7 @@
 ---
 title: Use fune-tuned gpt 3.5 model to write python
 authors: qkfang
-tags: [azure,spike-prime,ai]
+tags: [azure,spike-prime,robotics,ai]
 ---
 
 Over the last 12 months, I've been amazed by all the developments happening in the AI world. From advancements in natural language processing to AI-driven coding tools, it's clear that AI is transforming the tech landscape faster than ever. With all the buzz, I decided to set a challenge for myself: to build an AI app from scratch.

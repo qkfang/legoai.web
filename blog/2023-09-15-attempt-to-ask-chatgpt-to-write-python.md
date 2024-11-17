@@ -1,7 +1,7 @@
 ---
 title: Attempt to ask ChatGPT to write python
 authors: qkfang
-tags: [chatgpt,spike-prime,ai]
+tags: [chatgpt,spike-prime,robotics,ai]
 ---
 
 The team is struggling with writing `Python` for the first time! It's so hard, and we don't know where to start. Drag-and-drop coding in the code blocks was so easy, but now we need to learn Python and figure out what to do. The Spike Prime has some examples, but they're not so easy to understand for us.

@@ -1,7 +1,7 @@
 ---
 title: Build Chatbot for Submerged Season for Coding
 authors: qkfang
-tags: [fll-submerged,azure,spike-prime,ai]
+tags: [fll-submerged,azure,spike-prime,robotics,ai]
 ---
 
 
