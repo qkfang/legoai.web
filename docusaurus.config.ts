@@ -40,21 +40,21 @@ const config: Config = {
         disableInDev: false,
       },
     ],
-    [
-      '@docusaurus/plugin-sitemap',
-      {
-        lastmod: 'date',
-        changefreq: 'weekly',
-        priority: 0.5,
-        ignorePatterns: ['/tags/**'],
-        filename: 'sitemap.xml',
-        createSitemapItems: async (params) => {
-          const {defaultCreateSitemapItems, ...rest} = params;
-          const items = await defaultCreateSitemapItems(rest);
-          return items.filter((item) => !item.url.includes('/page/'));
-        },
-      },
-    ]
+    // [
+    //   '@docusaurus/plugin-sitemap',
+    //   {
+    //     lastmod: 'date',
+    //     changefreq: 'weekly',
+    //     priority: 0.5,
+    //     ignorePatterns: ['/tags/**'],
+    //     filename: 'sitemap.xml',
+    //     createSitemapItems: async (params) => {
+    //       const {defaultCreateSitemapItems, ...rest} = params;
+    //       const items = await defaultCreateSitemapItems(rest);
+    //       return items.filter((item) => !item.url.includes('/page/'));
+    //     },
+    //   },
+    // ]
   ],
 
   presets: [
@@ -93,7 +93,11 @@ const config: Config = {
         src: 'img/logo.png',
       },
       items: [
-        { to: '/blog', label: 'Blog', position: 'left' },
+        { to: '/blog', label: 'All Blogs', position: 'left' },
+        { to: '/blog/tags/ai', label: 'AI & Azure', position: 'left' },
+        { to: '/blog/tags/robotics', label: 'Robotics', position: 'left' },
+        { to: '/blog/tags/fll', label: 'FLL', position: 'left' },
+        { to: '/blog/tags/talk', label: 'Talks', position: 'left' },
         // {
         //   type: 'docSidebar',
         //   sidebarId: 'tutorialSidebar',
@@ -123,8 +127,17 @@ const config: Config = {
             },
           ],
         },
+        {
+          title: 'Information',
+          items: [
+            {
+              label: 'About',
+              to: '/blog/2022/01/01/about',
+            },
+          ],
+        },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} LegoAI.net, Inc. Loving LEGO Robotics since 2022.`,
+      copyright: `Copyright © ${new Date().getFullYear()} LegoAI.net - Loving LEGO Robotics since 2022.`,
     },
     prism: {
       theme: prismThemes.vsLight,
