@@ -4,6 +4,11 @@ fll:
   permalink: /fll
   description: fll
 
+frc:
+  label: frc
+  permalink: /frc
+  description: frc
+
 fll-masterpiece:
   label: fll-masterpiece
   permalink: /fll-masterpiece
@@ -19,10 +24,20 @@ ai:
   permalink: /ai
   description: ai
 
+talk:
+  label: talk
+  permalink: /talk
+  description: talk
+
 azure:
   label: azure
   permalink: /azure
   description: azure
+
+github:
+  label: github
+  permalink: /github
+  description: github
 
 chatgpt:
   label: chatgpt
@@ -33,7 +48,6 @@ spike-prime:
   label: spike-prime
   permalink: /spike-prime
   description: spike-prime
-
   
 robotics:
   label: robotics
