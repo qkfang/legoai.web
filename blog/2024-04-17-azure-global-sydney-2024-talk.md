@@ -1,7 +1,7 @@
 ---
 title: Azure Global Sydney 2024 Tech Talk
 authors: qkfang
-tags: [azure,ai]
+tags: [azure,ai,talk]
 ---
 
 I'm excited to share that today I had the incredible opportunity to attend the **Global Azure Sydney 2024** user group session at the Microsoft Reactor today! Even more thrilling, I got to present my experiences with AI and coding during the event. It was an amazing moment to share my journey, including how I've been exploring AI model fine-tuning and integrating it with robotics like Spike Prime. Feeling grateful for the chance to connect with so many passionate people in the field and exchange ideas!

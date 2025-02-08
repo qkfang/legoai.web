@@ -1,5 +1,5 @@
 ---
-title: Azure AI App in One Day Labs
+title: Azure AI App in One Day in Brisbane
 authors: qkfang
 tags: [azure,ai]
 ---

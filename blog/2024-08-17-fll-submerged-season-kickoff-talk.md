@@ -1,7 +1,7 @@
 ---
 title: FLL Submerged Season Kickoff Tech Talk
 authors: qkfang
-tags: [fll,fll-submerged,azure,ai]
+tags: [fll,fll-submerged,azure,ai,talk]
 ---
 
 

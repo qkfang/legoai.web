@@ -1,5 +1,5 @@
 ---
-title: GitHub Copilot Workshop in NZ
+title: GitHub Copilot Workshop in Auckland
 authors: qkfang
 tags: [azure,ai]
 ---
