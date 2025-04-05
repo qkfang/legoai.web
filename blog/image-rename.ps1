@@ -1,6 +1,9 @@
 param (
     [string]$MarkdownFile
 )
+# chmod +x image-rename.ps1
+
+$MarkdownFile = Join-Path -Path (Get-Location) -ChildPath $MarkdownFile
 
 # Check if the file exists
 if (-Not (Test-Path $MarkdownFile)) {
