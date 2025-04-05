@@ -10,7 +10,7 @@ This AI hackathon had over 9,500 developers world-wide engaged with Azure Cosmos
 
 📢 Checkout my "LEGO Robot AI" and other winner's projects in this blog: "Meet the Winners | Microsoft Developers Azure AI & Azure Cosmos DB Learning Hackathon".
 
-![microsoft-azure-ai-learning-hackathon-blog](/imgblog/microsoft-azure-ai-learning-hackathon-blog.png)
+![microsoft-azure-ai-learning-hackathon-blog](images/microsoft-azure-ai-learning-hackathon-blog.png)
 
-![microsoft-azure-ai-learning-hackathon-app](/imgblog/microsoft-azure-ai-learning-hackathon-app.png)
+![microsoft-azure-ai-learning-hackathon-app](images/microsoft-azure-ai-learning-hackathon-app.png)
 

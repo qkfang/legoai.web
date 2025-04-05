@@ -8,7 +8,7 @@ tags: [fll,fll-submerged]
 
 As the **FIRST LEGO League (FLL) Submerged** season approaches, We are already thinking about how we can make the most of AI to tackle the challenges ahead. This season's theme revolves around underwater exploration, and I'm excited to see how we can take our robotics game to the next level using AI-driven tools.
 
-![alt text](/imgblog/fll-submerged-mat.png)
+![alt text](images/fll-submerged-mat.png)
 
 My focus this time will be on improving two key areas:
 1. **Enhancing the accuracy of Python code** output for LEGO robots.

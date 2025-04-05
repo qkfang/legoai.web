@@ -17,41 +17,41 @@ Shoutout to Alice for keeping us calm and organised when the shuttle bus 🚌 ra
 
 https://www.linkedin.com/posts/qkfang_mvpsummit-clippy-clippy-activity-7310895651666464770-MLir?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-1.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-1.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-2.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-2.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-3.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-3.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-4.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-4.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-5.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-5.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-6.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-6.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-7.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-7.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-8.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-8.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-9.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-9.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-10.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-10.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-11.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-11.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-12.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-12.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-13.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-13.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-14.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-14.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-15.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-15.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-16.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-16.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-17.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-17.png)
 
-![alt text](20250326-microsoft-mvp-summit-2025-day2-18.png)
+![alt text](images\2025-03-26-microsoft-mvp-summit-2025-day-2-18.png)
 
 
 

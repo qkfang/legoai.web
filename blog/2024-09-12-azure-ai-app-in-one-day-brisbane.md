@@ -10,13 +10,13 @@ The workshop was not just about learning theory, we spent most of the time writi
 
 During the session, I had the chance to share our own LEGO AI app with the group. This app, which we've built using several Azure AI services, helps students by providing them with AI-generated coding solutions for SPIKE Prime robots. It was great to show how AI can be used in education and robotics, two fields that are close to my passion. The feedback I received was incredibly positive. People were excited about how AI could be used in such practical, hands-on ways to empower the next generation of students and engineers.
 
-![alt text](/imgblog/azure-ai-app-1-day-share.png)
+![alt text](images/azure-ai-app-1-day-share.png)
 
 Sharing the LEGO AI app also sparked some meaningful discussions. We talked about how AI can be integrated into everyday life, not just in high-tech or corporate environments, but in educational settings where students are learning to code, solve problems, and think critically. Developers were intrigued by the idea of using AI not only to build complex systems but also to inspire young minds. It was a reminder that AI has the potential to impact more than just technology - it can inspire creativity and learning in new ways.
 
 One of the biggest takeaways from the workshop was the idea that the best AI app ideas often come from your passions. Whether it's education, robotics, or something completely different, finding an area you care about can lead to the most impactful and rewarding projects. When you're passionate about a subject, you naturally want to find better ways to improve or innovate, and that's where AI can really shine.
 
 
-![alt text](/imgblog/azure-ai-app-1-day.png)
+![alt text](images/azure-ai-app-1-day.png)
 
 As I left the workshop, I was energized by all the new ideas floating around the room. It was a great reminder that AI is not just about data and algorithms. It's about creativity, innovation, and making life better in ways big and small. So, when you're looking for your next AI app idea, look to the passions in your life. You never know how AI might help turn your interests into something truly innovative.

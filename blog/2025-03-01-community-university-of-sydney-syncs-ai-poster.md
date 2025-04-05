@@ -21,4 +21,4 @@ Sydney Computing Society - SYNCS is the student-run computing society at the Uni
 https://www.linkedin.com/posts/qkfang_syncs-azure-vscode-activity-7304799913463230464-PFv8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
 
 
-![alt text](image-23.png)
+![alt text](images\2025-03-01-community-university-of-sydney-syncs-ai-poster-1.png)

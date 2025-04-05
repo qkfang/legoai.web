@@ -9,7 +9,7 @@ The new **FIRST LEGO League MASTERPIECE** season is just around the corner, and 
 
 We've been immersing ourselves in all the `YouTube` analyses based on the sneak peek videos, and they've been incredibly helpful. These insights offer glimpses into what we might expect from the upcoming missions. Discussing theories and potential strategies has not only fueled our excitement but also sharpened our analytical skills.
 
-![alt text](/imgblog/fll-masterpiece-kit.png)
+![alt text](images/fll-masterpiece-kit.png)
 
 To prepare, we've been building various similar missions at home to test out our robot designs and coding skills. This hands-on experience has allowed us to fine-tune gear ratios, optimize sensors, and perfect our code. It's amazing to see how much progress we've made, and it's bringing us closer together as a team.
 
@@ -21,4 +21,4 @@ We know that each new mission will bring its own set of challenges, and we can't
 
 As we count down the days to the season launch, our team is buzzing with energy. We're fine-tuning our robot, practicing our coding, and strengthening our teamwork skills. The MASTERPIECE season is not just a competition; it's an opportunity to learn, grow, and create memories that will last a lifetime.
 
-![alt text](/imgblog/fll-masterpiece-mat.png)
+![alt text](images/fll-masterpiece-mat.png)

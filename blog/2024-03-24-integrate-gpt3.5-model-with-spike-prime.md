@@ -12,7 +12,7 @@ For the robot connection, we used a serial port interface. This allowed us to se
 
 The results look promising so far. The fine-tuned model has demonstrated an ability to stick closely to the instructions we provided. It seems to understand the specifics of the Spike Prime movement commands, offering more accurate code suggestions than a generic model.
 
-![alt text](/imgblog/azure-fine-tune-python.png)
+![alt text](images/azure-fine-tune-python.png)
 
 Here's a glimpse of what we've tried so far:
 

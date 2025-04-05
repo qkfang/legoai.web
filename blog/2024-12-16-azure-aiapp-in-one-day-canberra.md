@@ -9,11 +9,11 @@ One last AIAppInOneDay workshop in 2024 at the Microsoft Canberra office to wrap
 
 We dove into building AI apps using Azure AI Services, and the excitement was contagious! 🎉 We discussed questions on topics like evaluating LLM responses using AIFoundry and dove into experiments with GraphRAG from Microsoft Research.
 
-![azure-aiapp-in-a-day-canberra-presentation](/imgblog/azure-aiapp-in-a-day-canberra-presentation.png)
+![azure-aiapp-in-a-day-canberra-presentation](images/azure-aiapp-in-a-day-canberra-presentation.png)
 
 The session was filled with insightful questions, innovative ideas, and collaborative problem-solving ✨, highlighting the transformative power of AI in reshaping how we think and develop.
 
 A huge shoutout to all the participants for your curiosity and engagement that made this workshop a remarkable success! 🙌 We did it again, Ahmed Youssef! 💡 Special thanks to Tracey, Michelle, and Ross for organizing this fantastic workshop!
 
-![azure-aiapp-in-a-day-canberra-msft](/imgblog/azure-aiapp-in-a-day-canberra-msft.png)
+![azure-aiapp-in-a-day-canberra-msft](images/azure-aiapp-in-a-day-canberra-msft.png)
 

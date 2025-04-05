@@ -9,7 +9,7 @@ Last weekend, I went to Macquarie University to pick up my daughter from a schoo
 
 The journey to the event was easy and smooth. Macquarie University, with its spacious campus and friendly atmosphere, made for a perfect venue. But the real excitement began when we arrived at the event hall. The **Superpowered Season** had drawn participants and spectators from across the region, and the atmosphere was electric. It's always wonderful when hard work pays off, and for my daughter's school team, securing another place in the National Finals was a major achievement. They had been practicing for months, meticulously fine-tuning their robot, rehearsing their project presentations, and refining their core values as a team.
 
-![alt text](/imgblog/fll-superpowered-kit.png)
+![alt text](images/fll-superpowered-kit.png)
 
 ## Youth and Volunteers: The Heart of the Event
 

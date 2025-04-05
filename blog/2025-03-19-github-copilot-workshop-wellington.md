@@ -15,11 +15,11 @@ Huge thanks to everyone who joined and made this an incredible learning experien
 https://www.linkedin.com/posts/qkfang_copilot-githubcopilot-copilotedits-activity-7308435396302905345-7IUx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
 
 
-![alt text](20250319-github-copilot-wellington-1.png)
+![alt text](images\2025-03-19-github-copilot-workshop-wellington-1.png)
 
-![alt text](20250319-github-copilot-wellington-2.png)
+![alt text](images\2025-03-19-github-copilot-workshop-wellington-2.png)
 
-![alt text](20250319-github-copilot-wellington-3.png)
+![alt text](images\2025-03-19-github-copilot-workshop-wellington-3.png)
 
-![alt text](20250319-github-copilot-wellington-4.png)
+![alt text](images\2025-03-19-github-copilot-workshop-wellington-4.png)
 

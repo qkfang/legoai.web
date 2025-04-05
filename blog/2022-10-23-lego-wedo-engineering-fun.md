@@ -15,7 +15,7 @@ We spread out all the pieces on the floor, the instruction manual open on the ta
 
 As we assembled the pieces, I was amazed at how intuitive the process was for my son. He followed the visual instructions, found the right bricks, and started snapping them together with minimal guidance. It was a proud moment seeing his determination and problem-solving skills in action.
 
-![alt text](/imgblog/wedo-robot.png)
+![alt text](images/wedo-robot.png)
 
 ## Diving into Coding
 
@@ -43,4 +43,4 @@ As the day wound down, we sat back and admired our work. We had not only built a
 
 Our engineering day with the LEGO WeDo kit was a resounding success. It opened up a world of creativity and learning that we can't wait to explore further. If you're a parent looking for a way to engage your child in STEM activities, I highly recommend giving LEGO WeDo a try. It's a fantastic way to have fun while laying the groundwork for critical thinking and technological literacy.
 
-![alt text](/imgblog/wedo-kit.png)
+![alt text](images/wedo-kit.png)

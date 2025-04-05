@@ -8,11 +8,11 @@ We are thrilled to share some exciting updates about **Fresh**, our AI-powered h
 
 One of the significant improvements is the expansion of our hobby directory. We've added a plethora of new hobbies to ensure that everyone finds something that resonates with their interests. Whether you're into pottery, urban gardening, or drone racing, `Fresh` has got you covered.
 
-![alt text](/imgblog/fll-masterpiece-inno-app.png)
+![alt text](images/fll-masterpiece-inno-app.png)
 
 Our chatbot has also received a significant upgrade. It now suggests nearby events based on your current location, making it easier for you to connect with like-minded enthusiasts in your area. Simply tell the chatbot what you're interested in, and it will provide personalized recommendations for events and meetups happening near you.
 
-![alt text](/imgblog/fll-masterpiece-inno-chatbot.png)
+![alt text](images/fll-masterpiece-inno-chatbot.png)
 
 We've also produced new tutorial videos to help you get the most out of `Fresh`. These guide you through the app's features and show you how to make the most of our platform.
 

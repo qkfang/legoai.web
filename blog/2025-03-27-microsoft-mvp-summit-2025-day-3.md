@@ -16,33 +16,33 @@ Ended the day with a heartwarming dinner with Santhosh! So great to see you agai
 
 https://www.linkedin.com/posts/qkfang_mvpsummit-microsoft-insightmvp-activity-7311328310645374976-1aAN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
 
-![alt text](20250327-microsoft-mvp-summit-2025-day3-1.png)
+![alt text](images\2025-03-27-microsoft-mvp-summit-2025-day-3-1.png)
 
-![alt text](20250327-microsoft-mvp-summit-2025-day3-2.png)
+![alt text](images\2025-03-27-microsoft-mvp-summit-2025-day-3-2.png)
 
-![alt text](20250327-microsoft-mvp-summit-2025-day3-3.png)
+![alt text](images\2025-03-27-microsoft-mvp-summit-2025-day-3-3.png)
 
-![alt text](20250327-microsoft-mvp-summit-2025-day3-4.png)
+![alt text](images\2025-03-27-microsoft-mvp-summit-2025-day-3-4.png)
 
-![alt text](20250327-microsoft-mvp-summit-2025-day3-5.png)
+![alt text](images\2025-03-27-microsoft-mvp-summit-2025-day-3-5.png)
 
-![alt text](20250327-microsoft-mvp-summit-2025-day3-6.png)
+![alt text](images\2025-03-27-microsoft-mvp-summit-2025-day-3-6.png)
 
-![alt text](20250327-microsoft-mvp-summit-2025-day3-7.png)
+![alt text](images\2025-03-27-microsoft-mvp-summit-2025-day-3-7.png)
 
-![alt text](20250327-microsoft-mvp-summit-2025-day3-8.png)
+![alt text](images\2025-03-27-microsoft-mvp-summit-2025-day-3-8.png)
 
-![alt text](20250327-microsoft-mvp-summit-2025-day3-9.png)
+![alt text](images\2025-03-27-microsoft-mvp-summit-2025-day-3-9.png)
 
-![alt text](20250327-microsoft-mvp-summit-2025-day3-10.png)
+![alt text](images\2025-03-27-microsoft-mvp-summit-2025-day-3-10.png)
 
-![alt text](20250327-microsoft-mvp-summit-2025-day3-11.png)
+![alt text](images\2025-03-27-microsoft-mvp-summit-2025-day-3-11.png)
 
-![alt text](20250327-microsoft-mvp-summit-2025-day3-12.png)
+![alt text](images\2025-03-27-microsoft-mvp-summit-2025-day-3-12.png)
 
-![alt text](20250327-microsoft-mvp-summit-2025-day3-13.png)
+![alt text](images\2025-03-27-microsoft-mvp-summit-2025-day-3-13.png)
 
-![alt text](20250327-microsoft-mvp-summit-2025-day3-14.png)
+![alt text](images\2025-03-27-microsoft-mvp-summit-2025-day-3-14.png)
 
 
 

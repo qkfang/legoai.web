@@ -2,6 +2,7 @@ param (
     [string]$MarkdownFile
 )
 # chmod +x image-rename.ps1
+# .\image-rename.ps1 .\2025-03-01-community-university-of-sydney-syncs-ai-poster.md
 
 $MarkdownFile = Join-Path -Path (Get-Location) -ChildPath $MarkdownFile
 
@@ -26,36 +27,43 @@ $Counter = 1
 # Regex to match ![alt text](xxx) tags
 $ImageRegex = '!\[.*?\]\((.*?)\)'
 
-# Process each match
-$UpdatedContent = $MarkdownContent -replace $ImageRegex, {
-    param ($Match)
+# Process each match in a loop
+$MatchList = [regex]::Matches($MarkdownContent, $ImageRegex)
+foreach ($Match in $MatchList) {
     $ImagePath = $Match.Groups[1].Value
 
     # Get the full path of the image
     $FullImagePath = Join-Path $MarkdownDir $ImagePath
 
     # Check if the image file exists
+    if ($ImagePath -like "images\*") {
+        Write-Host "Skipping image already in 'images' folder"
+        continue
+    }
+
     if (-Not (Test-Path $FullImagePath)) {
         Write-Host "Image file not found: $FullImagePath"
-        return $Match.Value
     }
 
     # Generate the new image name
     $ImageExtension = [System.IO.Path]::GetExtension($ImagePath)
     $NewImageName = "$MarkdownBaseName-$Counter$ImageExtension"
-    $NewImagePath = Join-Path $MarkdownDir $NewImageName
+    Write-Host $NewImageName
+    $FullNewImagePath = Join-Path $MarkdownDir $NewImageName
+    # $NewImagePath = Join-Path $MarkdownDir $NewImageName
 
     # Rename the image file
     Rename-Item -Path $FullImagePath -NewName $NewImageName
+    Move-Item -Path $FullNewImagePath -Destination 'images'
 
     # Increment the counter
     $Counter++
 
-    # Return the updated markdown tag
-    return $Match.Value -replace [regex]::Escape($ImagePath), $NewImageName
+    # Update the markdown content
+    $MarkdownContent = $MarkdownContent -replace [regex]::Escape($ImagePath), "images\$NewImageName"
 }
 
 # Write the updated content back to the markdown file
-Set-Content -Path $MarkdownFile -Value $UpdatedContent
+Set-Content -Path $MarkdownFile -Value $MarkdownContent
 
 Write-Host "Image renaming and markdown update completed successfully."

@@ -8,7 +8,7 @@ We've decided to bring our idea to life by building an AI app for hobby sharing 
 
 `FRESH` isn't just a directory; it's a comprehensive resource with a vast database of hobbies available to assist people in exploring new activities. Whether you're interested in pottery, coding, photography, or any other hobby, `FRESH` aims to make the search easy and engaging.
 
-![alt text](/imgblog/fll-masterpiece-inno-dev.png)
+![alt text](images/fll-masterpiece-inno-dev.png)
 
 What sets `FRESH` apart is its clever chatbot assistant. Powered by AI technologies like ChatGPT and enriched with a collection of documents we've assembled, the chatbot can communicate with users to understand their likes and preferences. Based on this interaction, it offers personalized hobby suggestions drawn from our extensive backend knowledge base.
 
@@ -16,4 +16,4 @@ The chatbot doesn't just list options; it engages in a conversation to help user
 
 We can't wait to see the potential of `FRESH` to help people discover new passions and build a community around shared interests. By combining arts, technology, and AI, we're creating an innovative way for people to enrich their lives and connect with others.
 
-![alt text](/imgblog/fll-masterpiece-inno-logo.png)
+![alt text](images/fll-masterpiece-inno-logo.png)
