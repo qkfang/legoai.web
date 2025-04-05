@@ -1,0 +1,20 @@
+---
+title: Microsoft MVP Summit 2025 - Day -1
+authors: qkfang
+tags: [talk,ai]
+---
+
+Heading to hashtag#MVPSummit 2025 @ Microsoft Campus in Redmond now - for the very first time! 🎉
+
+My Microsoft MVP journey wouldn't have been possible without the amazing people in the community and at Insight 💜 (especially Cloud Apps & Integration Team). Your support, encouragement, and belief in community contribution and collaboration made all the difference. A heartfelt thank you to each and every one of you! ❤️
+
+Back in 2012, while pursuing the Microsoft Certified Master 🎓 hashtag#MCM, I let go the chance to visit Microsoft's Redmond campus for 3 weeks onsite training (worse decision ever! 😅). Now, 13 years later, this lifelong Microsoft fanboy (from MS-DOS and Windows 3.1 days! 💾) is finally getting the opportunity to step onto that legendary campus. It's a full-circle moment I've never stopped dreaming about. Can't wait to meet fellow MVPs, RDs, and Microsoft team! 🤝
+
+People often ask how we manage to stay involved and keep the energy high . The truth is - when passion drives you, you always find a way. Time flies, so don't wait. Keep chasing your dreams: step by step 👣, one action at a time. When the right opportunity comes, you'll know you're ready.
+
+Special shoutout to Paul 🙌 - not just for organizing everything for our Insight MVPs, but also for making sure we're fully hyped and funded for the summit. Your efforts mean more than words can say. 💯
+
+With a heart full of gratitude and excitement, let's go! 🚀
+
+
+https://www.linkedin.com/posts/qkfang_mvpsummit-mcm-microsoft-activity-7309344445060063235-Tbx-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY

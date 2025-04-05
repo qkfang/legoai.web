@@ -1,0 +1,40 @@
+---
+title: Azure AI App in One Day at Auckland
+authors: qkfang
+tags: [talk,ai]
+---
+
+
+☀️ Beautiful weather and brilliant minds! Awesome time at AI App in a Day session at the Microsoft hashtag#Auckland office! The sun was shining, the room was buzzing with energy, and we had a full house of curious participants ready to dive into AI app development on Microsoft Azure .
+
+From setting up hashtag#GitHub hashtag#Codespaces, running the chatbot with hashtag#RAG in action, and completing all three labs (even with 5 minutes to spare!) - It was one smooth ride. 🧠💻
+
+As always, we tossed in a few brain teasers throughout the session to keep the energy and creativity levels high. You know it's been a brain-burner of a day when the coffee machine runs out of milk ☕💡
+
+A huge shoutout to my Insight buddy, Rakesh - it's been such a pleasure running these sessions with you from the start. Your passion and hands-on coding experience continue to inspire and engage the community. 🔥 Watching you in action is always a highlight!
+
+Thanks heaps to Ricky, Aamir, Michelle & Ross for making it all happen in Auckland – really appreciate the support and collaboration! 🙏👏
+
+Fun factor: there are 915,103,765 ways to group six, 8-stud LEGO bricks ! (last photo)
+
+https://www.linkedin.com/posts/qkfang_auckland-github-codespaces-activity-7308978687129829377-iTzS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
+
+
+![alt text](20250321-aiapp1day-auckland-1.png)
+
+![alt text](20250321-aiapp1day-auckland-2.png)
+
+![alt text](20250321-aiapp1day-auckland-3.png)
+
+![alt text](20250321-aiapp1day-auckland-4.png)
+
+![alt text](20250321-aiapp1day-auckland-5.png)
+
+![alt text](20250321-aiapp1day-auckland-6.png)
+
+![alt text](20250321-aiapp1day-auckland-7.png)
+
+![alt text](20250321-aiapp1day-auckland-8.png)
+
+![alt text](20250321-aiapp1day-auckland-9.png)
+
