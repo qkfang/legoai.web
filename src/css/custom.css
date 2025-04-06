@@ -28,3 +28,31 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 } */
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Default: 3 equal columns */
+  gap: 16px; /* Adds spacing between grid items */
+  padding: 16px; /* Adds padding around the grid */
+}
+
+/* Adjust grid for medium screens (e.g., tablets) */
+@media (max-width: 768px) {
+  .grid-container {
+      grid-template-columns: repeat(2, 1fr); /* 2 equal columns */
+  }
+}
+
+/* Adjust grid for small screens (e.g., phones) */
+@media (max-width: 480px) {
+  .grid-container {
+      grid-template-columns: 1fr; /* Single column */
+  }
+}
+
+.grid-item {
+  background-color: #f0f0f0; /* Light gray background for items */
+  border: 1px solid #ccc; /* Border for visual separation */
+  padding: 16px; /* Padding inside each grid item */
+  text-align: center; /* Centers text inside the grid item */
+}

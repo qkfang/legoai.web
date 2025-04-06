@@ -34,11 +34,14 @@ const config: Config = {
       '@docusaurus/plugin-ideal-image',
       {
         quality: 70,
-        max: 1030, // max resized image's size.
+        max: 800, // max resized image's size.
         min: 640, // min resized image's size. if original is lower, use that size.
         steps: 2, // the max number of images generated between min and max (inclusive)
         disableInDev: false,
       },
+    ],
+    [
+      'docusaurus-plugin-image-zoom', {}
     ],
     // [
     //   '@docusaurus/plugin-sitemap',
@@ -105,6 +108,16 @@ const config: Config = {
         //   label: 'Tutorial',
         // },
       ],
+    },
+    zoom: {
+      selector: '.grid-container .grid-item img',
+      background: {
+          light: 'rgb(255, 255, 255)',
+          dark: 'rgb(50, 50, 50)'
+      },
+      config: {
+        // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+      }
     },
     footer: {
       style: 'dark',
