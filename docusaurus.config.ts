@@ -110,7 +110,7 @@ const config: Config = {
       ],
     },
     zoom: {
-      selector: '.grid-container .grid-item img',
+      selector: '.img-grid .img-item img',
       background: {
           light: 'rgb(255, 255, 255)',
           dark: 'rgb(50, 50, 50)'
