@@ -29,6 +29,6 @@ Let's build AI-powered apps with ease on hashtag#Azure! 🚀✨ hashtag#mvpbuzz
 
 https://www.linkedin.com/posts/qkfang_bestofai-ignite-azureaifoundry-activity-7298835694104285184-U_oy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
 
-![alt text](images\2025-02-20-community-reactor-sydney-azure-ai-foundry-poster-1.png)
+![alt text](images\2025-02-20-community-reactor-sydney-azure-ai-foundry-poster-1.jpg)
 
-![alt text](images\2025-02-20-community-reactor-sydney-azure-ai-foundry-poster-2.png)
+![alt text](images\2025-02-20-community-reactor-sydney-azure-ai-foundry-poster-2.jpg)

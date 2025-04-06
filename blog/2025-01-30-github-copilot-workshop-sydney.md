@@ -23,10 +23,10 @@ After a full day of workshops, labs, presentations, and hackathons, we wrapped u
 https://www.linkedin.com/posts/qkfang_copilot-githubcopilot-ai-activity-7293912276846198784-uqsd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
 
 
-![alt text](images\2025-01-30-github-copilot-workshop-sydney-1.png)
+![alt text](images\2025-01-30-github-copilot-workshop-sydney-1.jpg)
 
-![alt text](images\2025-01-30-github-copilot-workshop-sydney-2.png)
+![alt text](images\2025-01-30-github-copilot-workshop-sydney-2.jpg)
 
-![alt text](images\2025-01-30-github-copilot-workshop-sydney-3.png)
+![alt text](images\2025-01-30-github-copilot-workshop-sydney-3.jpg)
 
 

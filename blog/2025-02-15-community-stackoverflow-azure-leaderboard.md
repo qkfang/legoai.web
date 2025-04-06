@@ -15,9 +15,9 @@ More than the rankings, I enjoyed the process of learning, problem-solving, and 
 
 https://www.linkedin.com/posts/qkfang_azure-stackoverflow-ai-activity-7296127658067685377-VYQ5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
 
-![alt text](images\2025-02-15-community-stackoverflow-azure-leaderboard-1.png)
+![alt text](images\2025-02-15-community-stackoverflow-azure-leaderboard-1.jpg)
 
-![alt text](images\2025-02-15-community-stackoverflow-azure-leaderboard-2.png)
+![alt text](images\2025-02-15-community-stackoverflow-azure-leaderboard-2.jpg)
 
-![alt text](images\2025-02-15-community-stackoverflow-azure-leaderboard-3.png)
+![alt text](images\2025-02-15-community-stackoverflow-azure-leaderboard-3.jpg)
 

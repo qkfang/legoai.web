@@ -17,29 +17,29 @@ P.S. check out the vintage software boxes and devices in the last 4 photos from 
 
 https://www.linkedin.com/posts/qkfang_ai-mvpbuzz-mvpsummit-activity-7310198713736409088-oX56/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
 
-![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-1.png)
+![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-1.jpg)
 
-![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-2.png)
+![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-2.jpg)
 
-![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-3.png)
+![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-3.jpg)
 
-![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-4.png)
+![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-4.jpg)
 
-![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-5.png)
+![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-5.jpg)
 
-![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-6.png)
+![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-6.jpg)
 
-![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-7.png)
+![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-7.jpg)
 
-![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-8.png)
+![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-8.jpg)
 
-![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-9.png)
+![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-9.jpg)
 
-![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-10.png)
+![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-10.jpg)
 
-![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-11.png)
+![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-11.jpg)
 
-![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-12.png)
+![alt text](images\2025-03-24-microsoft-mvp-summit-2025-day-0-12.jpg)
 
 
 

@@ -20,4 +20,4 @@ The hackathon has definitely sparked some new ideas for how we can push the boun
 
 **Update: got my completion badge!**
 
-![alt text](images/azure-openai-hackathon-badge.png)
+![alt text](images/azure-openai-hackathon-badge.jpg)

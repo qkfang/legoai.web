@@ -22,19 +22,19 @@ Can't wait to see what everyone builds next. If you attended, what was your bigg
 
 https://www.linkedin.com/posts/qkfang_azureai-responsibleai-aifoundry-activity-7301462922617073664-zp_4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
 
-![alt text](images\2025-02-27-azure-ai-app-in-one-day-adelaide-1.png)
+![alt text](images\2025-02-27-azure-ai-app-in-one-day-adelaide-1.jpg)
 
-![alt text](images\2025-02-27-azure-ai-app-in-one-day-adelaide-2.png)
+![alt text](images\2025-02-27-azure-ai-app-in-one-day-adelaide-2.jpg)
 
-![alt text](images\2025-02-27-azure-ai-app-in-one-day-adelaide-3.png)
+![alt text](images\2025-02-27-azure-ai-app-in-one-day-adelaide-3.jpg)
 
-![alt text](images\2025-02-27-azure-ai-app-in-one-day-adelaide-4.png)
+![alt text](images\2025-02-27-azure-ai-app-in-one-day-adelaide-4.jpg)
 
-![alt text](images\2025-02-27-azure-ai-app-in-one-day-adelaide-5.png)
+![alt text](images\2025-02-27-azure-ai-app-in-one-day-adelaide-5.jpg)
 
-![alt text](images\2025-02-27-azure-ai-app-in-one-day-adelaide-6.png)
+![alt text](images\2025-02-27-azure-ai-app-in-one-day-adelaide-6.jpg)
 
-![alt text](images\2025-02-27-azure-ai-app-in-one-day-adelaide-7.png)
+![alt text](images\2025-02-27-azure-ai-app-in-one-day-adelaide-7.jpg)
 
 
 

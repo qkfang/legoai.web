@@ -19,20 +19,20 @@ Keep building, keep innovating on hashtag#Azure ! 💡✨
 https://www.linkedin.com/posts/qkfang_azureai-contentsafety-aisearch-activity-7307628362770890752-9QZo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
 
 
-![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-1.png)
+![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-1.jpg)
 
-![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-2.png)
+![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-2.jpg)
 
-![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-3.png)
+![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-3.jpg)
 
-![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-4.png)
+![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-4.jpg)
 
-![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-5.png)
+![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-5.jpg)
 
-![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-6.png)
+![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-6.jpg)
 
-![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-7.png)
+![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-7.jpg)
 
-![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-8.png)
+![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-8.jpg)
 
-![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-9.png)
+![alt text](images\2025-03-18-azure-ai-app-in-one-day-wellington-9.jpg)

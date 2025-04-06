@@ -9,7 +9,7 @@ I had the exciting opportunity to present a talk at the *FIRST LEGO League* (FLL
 
 One of the most exciting things to prepare for this talk was building up a Python knowledge base specifically for the LEGO SPIKE Prime, the popular robotics kit used in FLL. SPIKE Prime uses a powerful hub and motors that can be programmed in Python. By leveraging ChatGPT's advanced language model and training it with SPIKE Prime's API and specifications, I was able to get it to generate Python code that effectively controls the robot's movements and sensors. This is a great option for kids (and even adults) who might struggle with the initial complexities of writing code from scratch.
 
-![alt text](images/fll-submerged-kickoff.png)
+![alt text](images/fll-submerged-kickoff.jpg)
 
 For example, using simple natural language prompts like "write Python code to move the robot forward for 20 cm", ChatGPT can now produce highly accurate, ready-to-run Python scripts that control the motors of a LEGO robot.
 

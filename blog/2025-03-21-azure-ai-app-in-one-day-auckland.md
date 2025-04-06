@@ -20,21 +20,21 @@ Fun factor: there are 915,103,765 ways to group six, 8-stud LEGO bricks ! (last 
 https://www.linkedin.com/posts/qkfang_auckland-github-codespaces-activity-7308978687129829377-iTzS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
 
 
-![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-1.png)
+![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-1.jpg)
 
-![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-2.png)
+![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-2.jpg)
 
-![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-3.png)
+![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-3.jpg)
 
-![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-4.png)
+![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-4.jpg)
 
-![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-5.png)
+![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-5.jpg)
 
-![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-6.png)
+![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-6.jpg)
 
-![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-7.png)
+![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-7.jpg)
 
-![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-8.png)
+![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-8.jpg)
 
-![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-9.png)
+![alt text](images\2025-03-21-azure-ai-app-in-one-day-auckland-9.jpg)
 

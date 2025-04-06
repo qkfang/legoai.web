@@ -26,14 +26,14 @@ Great catch up with Elizabeth, Sam, Arafat, Nick, Jayanth, Jourdan, Roland, Zees
 
 https://www.linkedin.com/posts/qkfang_semantickernel-autogen-magentic-activity-7294690617727586304-7G8G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
 
-![alt text](images\2025-02-10-microsoft-innovation-hub-experience-tour-1.png)
+![alt text](images\2025-02-10-microsoft-innovation-hub-experience-tour-1.jpg)
 
-![alt text](images\2025-02-10-microsoft-innovation-hub-experience-tour-2.png)
+![alt text](images\2025-02-10-microsoft-innovation-hub-experience-tour-2.jpg)
 
-![alt text](images\2025-02-10-microsoft-innovation-hub-experience-tour-3.png)
+![alt text](images\2025-02-10-microsoft-innovation-hub-experience-tour-3.jpg)
 
-![alt text](images\2025-02-10-microsoft-innovation-hub-experience-tour-4.png)
+![alt text](images\2025-02-10-microsoft-innovation-hub-experience-tour-4.jpg)
 
-![alt text](images\2025-02-10-microsoft-innovation-hub-experience-tour-5.png)
+![alt text](images\2025-02-10-microsoft-innovation-hub-experience-tour-5.jpg)
 
-![alt text](images\2025-02-10-microsoft-innovation-hub-experience-tour-6.png)
+![alt text](images\2025-02-10-microsoft-innovation-hub-experience-tour-6.jpg)

@@ -24,25 +24,25 @@ We dove deep into hashtag#PromptEngineering, hashtag#RAG (Retrieval-Augmented Ge
 
 https://www.linkedin.com/posts/qkfang_promptengineering-rag-aiapp-activity-7305504201948770307-4zz8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
 
-![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-1.png)
+![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-1.jpg)
 
-![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-2.png)
+![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-2.jpg)
 
-![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-3.png)
+![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-3.jpg)
 
-![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-4.png)
+![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-4.jpg)
 
-![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-5.png)
+![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-5.jpg)
 
-![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-6.png)
+![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-6.jpg)
 
-![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-7.png)
+![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-7.jpg)
 
-![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-8.png)
+![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-8.jpg)
 
-![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-9.png)
+![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-9.jpg)
 
-![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-10.png)
+![alt text](images\2025-03-10-azure-ai-app-in-one-day-microsoft-sydney-10.jpg)
 
 
 

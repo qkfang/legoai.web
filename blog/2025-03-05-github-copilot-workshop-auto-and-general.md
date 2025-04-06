@@ -24,12 +24,12 @@ Hands-on learning includes:👨‍💻
 
 https://www.linkedin.com/posts/qkfang_copilot-cyclonealfred-githubcopilot-activity-7303300481571860480-X7LF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
 
-![alt text](images\2025-03-05-github-copilot-workshop-auto-and-general-1.png)
+![alt text](images\2025-03-05-github-copilot-workshop-auto-and-general-1.jpg)
 
-![alt text](images\2025-03-05-github-copilot-workshop-auto-and-general-2.png)
+![alt text](images\2025-03-05-github-copilot-workshop-auto-and-general-2.jpg)
 
-![alt text](images\2025-03-05-github-copilot-workshop-auto-and-general-3.png)
+![alt text](images\2025-03-05-github-copilot-workshop-auto-and-general-3.jpg)
 
-![alt text](images\2025-03-05-github-copilot-workshop-auto-and-general-4.png)
+![alt text](images\2025-03-05-github-copilot-workshop-auto-and-general-4.jpg)
 
-![alt text](images\2025-03-05-github-copilot-workshop-auto-and-general-5.png)
+![alt text](images\2025-03-05-github-copilot-workshop-auto-and-general-5.jpg)

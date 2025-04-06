@@ -23,28 +23,28 @@ https://www.linkedin.com/posts/qkfang_ai-cosmosdb-lego-activity-7306559729646850
 
 
 
-![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-1.png)
+![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-1.jpg)
 
-![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-2.png)
+![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-2.jpg)
 
-![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-3.png)
+![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-3.jpg)
 
-![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-4.png)
+![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-4.jpg)
 
-![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-5.png)
+![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-5.jpg)
 
-![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-6.png)
+![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-6.jpg)
 
-![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-7.png)
+![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-7.jpg)
 
-![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-8.png)
+![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-8.jpg)
 
-![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-9.png)
+![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-9.jpg)
 
-![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-10.png)
+![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-10.jpg)
 
-![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-11.png)
+![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-11.jpg)
 
-![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-12.png)
+![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-12.jpg)
 
-![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-13.png)
+![alt text](images\2025-03-15-community-global-ai-bootcamp-sydney-2025-13.jpg)

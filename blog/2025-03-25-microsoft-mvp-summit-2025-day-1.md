@@ -17,29 +17,29 @@ https://www.linkedin.com/posts/qkfang_apac-insightmvp-mvpbuzz-activity-731055960
 
 
 
-![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-1.png)
+![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-1.jpg)
 
-![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-2.png)
+![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-2.jpg)
 
-![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-3.png)
+![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-3.jpg)
 
-![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-4.png)
+![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-4.jpg)
 
-![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-5.png)
+![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-5.jpg)
 
-![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-6.png)
+![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-6.jpg)
 
-![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-7.png)
+![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-7.jpg)
 
-![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-8.png)
+![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-8.jpg)
 
-![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-9.png)
+![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-9.jpg)
 
-![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-10.png)
+![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-10.jpg)
 
-![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-11.png)
+![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-11.jpg)
 
-![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-12.png)
+![alt text](images\2025-03-25-microsoft-mvp-summit-2025-day-1-12.jpg)
 
 
 

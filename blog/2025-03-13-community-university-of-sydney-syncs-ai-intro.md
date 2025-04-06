@@ -17,31 +17,31 @@ And yes, rocking my hashtag#Azure cap and t-shirt, I totally blended in and felt
 https://www.linkedin.com/posts/qkfang_syncs-syncs-azure-activity-7306270853120372736-SxUF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
 
 
-![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-1.png)
+![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-1.jpg)
 
-![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-2.png)
+![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-2.jpg)
 
-![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-3.png)
+![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-3.jpg)
 
-![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-4.png)
+![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-4.jpg)
 
-![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-5.png)
+![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-5.jpg)
 
-![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-6.png)
+![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-6.jpg)
 
-![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-7.png)
+![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-7.jpg)
 
-![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-8.png)
+![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-8.jpg)
 
-![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-9.png)
+![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-9.jpg)
 
-![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-10.png)
+![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-10.jpg)
 
-![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-11.png)
+![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-11.jpg)
 
-![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-12.png)
+![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-12.jpg)
 
-![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-13.png)
+![alt text](images\2025-03-13-community-university-of-sydney-syncs-ai-intro-13.jpg)
 
 
 
