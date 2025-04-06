@@ -1,4 +1,15 @@
 
+# category 1
+robotics:
+  label: robotics
+  permalink: /robotics
+  description: robotics
+
+first:
+  label: first
+  permalink: /first
+  description: first
+
 fll:
   label: fll
   permalink: /fll
@@ -8,6 +19,12 @@ frc:
   label: frc
   permalink: /frc
   description: frc
+
+ftc:
+  label: ftc
+  permalink: /ftc
+  description: ftc
+
 
 fll-masterpiece:
   label: fll-masterpiece
@@ -19,37 +36,82 @@ fll-submerged:
   permalink: /fll-submerged
   description: fll-submerged
 
-ai:
-  label: ai
-  permalink: /ai
-  description: ai
 
-talk:
-  label: talk
-  permalink: /talk
-  description: talk
+# category 2
+lego:
+  label: lego
+  permalink: /lego
+  description: lego
+
+spike-prime:
+  label: spike-prime
+  permalink: /spike-prime
+  description: spike-prime
+
+wedo:
+  label: wedo
+  permalink: /wedo
+  description: wedo
+
+
+# category 3
+
+microsoft:
+  label: microsoft
+  permalink: /microsoft
+  description: microsoft
 
 azure:
   label: azure
   permalink: /azure
   description: azure
 
+ai-app-in-one-day:
+  label: ai-app-in-one-day
+  permalink: /ai-app-in-one-day
+  description: ai-app-in-one-day
+
 github:
   label: github
   permalink: /github
   description: github
+
+github-copilot:
+  label: github-copilot
+  permalink: /github-copilot
+  description: github-copilot
+
+
+
+# category 3
+ai:
+  label: ai
+  permalink: /ai
+  description: ai
 
 chatgpt:
   label: chatgpt
   permalink: /chatgpt
   description: chatgpt
 
-spike-prime:
-  label: spike-prime
-  permalink: /spike-prime
-  description: spike-prime
-  
-robotics:
-  label: robotics
-  permalink: /robotics
-  description: robotics
+
+# category 4
+talk:
+  label: talk
+  permalink: /talk
+  description: talk
+
+notice:
+  label: notice
+  permalink: /notice
+  description: notice
+
+community:
+  label: community
+  permalink: /community
+  description: community
+
+mvp:
+  label: mvp
+  permalink: /mvp
+  description: mvp
