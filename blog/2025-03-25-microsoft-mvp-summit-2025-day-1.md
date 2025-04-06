@@ -4,7 +4,7 @@ authors: qkfang
 tags: [microsoft,community,mvp]
 ---
 
-Day 1 @ Microsoft MVP Summit ✨ Just look at all the amazing hashtag#APAC MVPs in the group photo! 🌏 The energy, passion, and talent captured in that moment are simply unforgettable – celebration of community and innovation. 💫
+Day 1 @ Microsoft MVP Summit ✨ Just look at all the amazing APAC MVPs in the group photo! 🌏 The energy, passion, and talent captured in that moment are simply unforgettable – celebration of community and innovation. 💫
 
 And speaking of style and flair, don't miss the Insight MVPs rocking those fuchsia-infused shoes! 👟 We're striking a pose right in front of the iconic granite Microsoft logo – the perfect blend of fashion, tech, and pride. 📸
 

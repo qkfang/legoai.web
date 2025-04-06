@@ -4,11 +4,11 @@ authors: qkfang
 tags: [ai,microsoft,azure,ai-app-in-one-day]
 ---
 
-What a day at Microsoft Reactor hashtag#Sydney! Our AI App in One Day workshop was all about building intelligent app on hashtag#Azure. The energy in the room was electric⚡️, fueled by enthusiastic participants from all levels of experience coming together to hashtag#learn📚, hashtag#code💻, and hashtag#innovate💡!
+What a day at Microsoft Reactor Sydney! Our AI App in One Day workshop was all about building intelligent app on Azure. The energy in the room was electric⚡️, fueled by enthusiastic participants from all levels of experience coming together to learn📚, code💻, and innovate💡!
 
-We loved hashtag#Code4Life & Azure T-shirts 👕, enjoyed delicious food and refreshing drinks, just to dive deep into building hashtag#AI App. It was the perfect day for coding in Sydney on Monday.
+We loved Code4Life & Azure T-shirts 👕, enjoyed delicious food and refreshing drinks, just to dive deep into building AI App. It was the perfect day for coding in Sydney on Monday.
 
-We started the hard way: ingesting our own data, generating embeddings, building vector indexes, and performing semantic search from scratch 🔍. Then we leveled up: using hashtag#LangChain to streamline the process. Why both ways? Because we are keen to understand the plumbing under the hood!🛠️
+We started the hard way: ingesting our own data, generating embeddings, building vector indexes, and performing semantic search from scratch 🔍. Then we leveled up: using LangChain to streamline the process. Why both ways? Because we are keen to understand the plumbing under the hood!🛠️
 
 Absolutely loved the amazing vibe ✨ at Microsoft Reactor Sydney! Huge thanks to Michael, Michelle, and Ross for putting together such an incredible event. 🙌 Feels like time travel, can't believe we were just in Redmond 3 days ago, Michael 😄.
 

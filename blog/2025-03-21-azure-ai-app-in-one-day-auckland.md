@@ -5,9 +5,9 @@ tags: [ai,microsoft,azure,ai-app-in-one-day]
 ---
 
 
-☀️ Beautiful weather and brilliant minds! Awesome time at AI App in a Day session at the Microsoft hashtag#Auckland office! The sun was shining, the room was buzzing with energy, and we had a full house of curious participants ready to dive into AI app development on Microsoft Azure .
+☀️ Beautiful weather and brilliant minds! Awesome time at AI App in a Day session at the Microsoft Auckland office! The sun was shining, the room was buzzing with energy, and we had a full house of curious participants ready to dive into AI app development on Microsoft Azure .
 
-From setting up hashtag#GitHub hashtag#Codespaces, running the chatbot with hashtag#RAG in action, and completing all three labs (even with 5 minutes to spare!) - It was one smooth ride. 🧠💻
+From setting up GitHub Codespaces, running the chatbot with RAG in action, and completing all three labs (even with 5 minutes to spare!) - It was one smooth ride. 🧠💻
 
 As always, we tossed in a few brain teasers throughout the session to keep the energy and creativity levels high. You know it's been a brain-burner of a day when the coffee machine runs out of milk ☕💡
 

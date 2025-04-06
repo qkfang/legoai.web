@@ -4,11 +4,11 @@ authors: qkfang
 tags: [ai,microsoft,azure,community,mvp]
 ---
 
-Global AI Bootcamp Sydney 2025 🌍: Full House of Innovation and Learning today! Sydney's hashtag#AI community came together at Microsoft Reactor Sydney. With 120+ enthusiastic participants, the event was packed with insightful sessions, engaging discussions and pizza🍕 & stickers ! 
+Global AI Bootcamp Sydney 2025 🌍: Full House of Innovation and Learning today! Sydney's AI community came together at Microsoft Reactor Sydney. With 120+ enthusiastic participants, the event was packed with insightful sessions, engaging discussions and pizza🍕 & stickers ! 
 
 🚀 From enterprise AI architecture to creative applications of generative AI, the day was filled with exciting knowledge-sharing opportunities. A Stellar Lineup of AI sessions: 🔥
-- Architecting Enterprise RAG Solutions with Azure hashtag#CosmosDB DiskANN and Fabric by Michael
-- hashtag#LEGO + Python + GPT = The Journey from Dad to Superdad with Azure AI Services by Daniel (like my robotics cap? :p) 
+- Architecting Enterprise RAG Solutions with Azure CosmosDB DiskANN and Fabric by Michael
+- LEGO + Python + GPT = The Journey from Dad to Superdad with Azure AI Services by Daniel (like my robotics cap? :p) 
 - AI Alchemy: Crafting Success with the Right Mix of Services by Haritha
 - Model Agnostic AI Implementation by Anupam
 - Unlocking Document Insights with Azure AI by Akanksha

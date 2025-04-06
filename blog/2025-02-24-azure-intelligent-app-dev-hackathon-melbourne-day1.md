@@ -4,9 +4,9 @@ authors: qkfang
 tags: [talk,ai]
 ---
 
-Intelligent App Development with hashtag#CopilotStack hashtag#Hackathon – Mission Accomplished! 🚀 Non-stop two-day hackathon at the Microsoft Melbourne office, showcasing accelerated computing from NVIDIA on hashtag#Azure ! 💡💻 
+Intelligent App Development with CopilotStack Hackathon – Mission Accomplished! 🚀 Non-stop two-day hackathon at the Microsoft Melbourne office, showcasing accelerated computing from NVIDIA on Azure ! 💡💻 
 
-Together with 50+ passionate participants, Rakesh, Ross and I explained the concept of Copilot Stack, explored hashtag#AzureAI and various NVIDIA's AI offerings on Azure to develop intelligent apps. 🔥The energy in room was unmatched, and we couldn't be prouder of the efforts and energy from everyone. Heaps loads of question too! 🙌
+Together with 50+ passionate participants, Rakesh, Ross and I explained the concept of Copilot Stack, explored AzureAI and various NVIDIA's AI offerings on Azure to develop intelligent apps. 🔥The energy in room was unmatched, and we couldn't be prouder of the efforts and energy from everyone. Heaps loads of question too! 🙌
 
 🔥 What We Done🔥
 ✅ 11x hands-on lab exercises from Spektra Systems

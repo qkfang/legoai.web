@@ -6,9 +6,9 @@ tags: [ai,microsoft,azure,community,mvp,notice]
 
 
 
-Ready to dive into AI? Join us for a beginner-friendly workshop at Sydney Computing Society (hashtag#SYNCS) where you'll explore Large Language Models and hashtag#Azure AI services! 
+Ready to dive into AI? Join us for a beginner-friendly workshop at Sydney Computing Society (SYNCS) where you'll explore Large Language Models and Azure AI services! 
 
-🔎 Learn. Build. Innovate. 📢 Share this with a friend and take your first step into AI! No experience needed - just bring your laptop with hashtag#VSCode & Node.js installed and get hands-on with hashtag#AI development! 💡
+🔎 Learn. Build. Innovate. 📢 Share this with a friend and take your first step into AI! No experience needed - just bring your laptop with VSCode & Node.js installed and get hands-on with AI development! 💡
 
 📅 Thursday, March 13
 ⏰ 6 PM – 8 PM

@@ -4,9 +4,9 @@ authors: qkfang
 tags: [ai,microsoft,github,github-copilot]
 ---
 
-🚀 Wrapped up 2x GitHub hashtag#Copilot Training day at Auto & General Australia in Brisbane, just before the incoming hashtag#CycloneAlfred! 🌪️
+🚀 Wrapped up 2x GitHub Copilot Training day at Auto & General Australia in Brisbane, just before the incoming CycloneAlfred! 🌪️
 
-👥 Engaging over 200+ participants across the organization to explore how hashtag#GitHubCopilot enhances developer productivity and the coding experience, with an emphasis on hashtag#SecureCoding and hashtag#ResponsibleAI.
+👥 Engaging over 200+ participants across the organization to explore how GitHubCopilot enhances developer productivity and the coding experience, with an emphasis on SecureCoding and ResponsibleAI.
 
 Together with my Insight teammates, Ahmed & Tay, we covered:
 ✅ How to draft effective prompts for Copilot

@@ -4,7 +4,7 @@ authors: qkfang
 tags: [ai,microsoft,github,github-copilot]
 ---
 
-Our 1st in-person & online GitHub hashtag#Copilot workshop of 2025 was a big success! 🎉 Over 100 participants from Sydney, Melbourne, and Brisbane joined us to learn, explore, and share how hashtag#GitHubCopilot can elevate our development experience.
+Our 1st in-person & online GitHub Copilot workshop of 2025 was a big success! 🎉 Over 100 participants from Sydney, Melbourne, and Brisbane joined us to learn, explore, and share how GitHubCopilot can elevate our development experience.
 
 💡 The story I shared during the Copilot presentation, reflecting on my 20 years as a coder. If I have 500 lines of legacy code to rewrite for a migration project:
 
@@ -14,7 +14,7 @@ Our 1st in-person & online GitHub hashtag#Copilot workshop of 2025 was a big suc
 
 After a full day of workshops, labs, presentations, and hackathons, we wrapped up with drinks 🍹 and great conversations. To top it off, I even scored a free mini gin bottle - winner! (I will drink responsibly). Fantastic having you around, I-van, Ahmed, Rakesh & Peachy! Sorry Ross, you have missed it.
 
-🙌 Huge thanks to everyone who joined and made it an awesome day. Cheers to more opportunities to learn and use hashtag#AI to make our hashtag#developer lives more fun and hashtag#productive!
+🙌 Huge thanks to everyone who joined and made it an awesome day. Cheers to more opportunities to learn and use AI to make our developer lives more fun and productive!
 
 
 

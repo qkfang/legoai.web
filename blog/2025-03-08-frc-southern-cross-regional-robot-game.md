@@ -6,11 +6,11 @@ tags: [talk,ai]
 
 
 
-FIRST Robotics Competition Southern Cross Regional today - my very first time volunteering at hashtag#FRC! It's the second day of the hashtag#REEFSCAPE season at Penrith Valley Regional Sports Centre, and I'm already in awe of the ⚡ energy, 🔧 innovation, and 🤝 teamwork on display.
+FIRST Robotics Competition Southern Cross Regional today - my very first time volunteering at FRC! It's the second day of the REEFSCAPE season at Penrith Valley Regional Sports Centre, and I'm already in awe of the ⚡ energy, 🔧 innovation, and 🤝 teamwork on display.
 
-hashtag#FRC is the ultimate sport for the mind ✨, where 40+ high school student teams take on real-world engineering challenges, designing and building industrial-sized robots from a kit of parts to compete in an intense, fast-paced game. But beyond the robots, it's about creativity, problem-solving, and teamwork, all guided by the spirit of hashtag#GraciousProfessionalism.
+FRC is the ultimate sport for the mind ✨, where 40+ high school student teams take on real-world engineering challenges, designing and building industrial-sized robots from a kit of parts to compete in an intense, fast-paced game. But beyond the robots, it's about creativity, problem-solving, and teamwork, all guided by the spirit of GraciousProfessionalism.
 
-This year's challenge, hashtag#REEFSCAPE 🌊, is all about using engineering to strengthen one of the ocean's most diverse habitats. It's inspiring to see young minds tackling big problems and shaping the future of hashtag#STEM.
+This year's challenge, REEFSCAPE 🌊, is all about using engineering to strengthen one of the ocean's most diverse habitats. It's inspiring to see young minds tackling big problems and shaping the future of STEM.
 
 It was a great pleasure to reconnect with old friends (Garry & Jack), see familiar faces, and make new connections! Exciting to witness teams like 'AI3' showcasing their AI-powered robot, an incredible display of innovation! 🤩🤖
 

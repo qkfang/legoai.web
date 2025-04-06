@@ -5,7 +5,7 @@ tags: [microsoft,community,mvp]
 ---
 
 
-Day 0 @ Microsoft MVP Summit ✅! Spent whole day at Microsoft Reactor Redmond, diving deep into hashtag#AI with some of the brightest AI MVPs around!🌟 It's been incredible connecting with so many MVPs, RDs & Microsoft team from all over the world and hear their stories 🌍: Priyanka, Matthijs, SARAVANAN, Dave, Alan, Jose, Lewis, Ko, Elizabeth, Christina.
+Day 0 @ Microsoft MVP Summit ✅! Spent whole day at Microsoft Reactor Redmond, diving deep into AI with some of the brightest AI MVPs around!🌟 It's been incredible connecting with so many MVPs, RDs & Microsoft team from all over the world and hear their stories 🌍: Priyanka, Matthijs, SARAVANAN, Dave, Alan, Jose, Lewis, Ko, Elizabeth, Christina.
 
 So grateful for the warm welcome by Barnaby for making us feel like home. 🙌 Great pleasure to catch up & team up with our Insight MVPs: Paul, Stephen, Robert, David, Hakim, John, Roberto, Peter! Will suit up in our Insight MVP gears and ready to roll into Day 1 tomorrow!
 

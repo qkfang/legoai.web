@@ -6,15 +6,15 @@ tags: [ai,microsoft,azure,ai-app-in-one-day]
 
 AI App in a Day @ Microsoft Sydney Office ! 🤖 Fantastic day at Room Gaba and Magari on Level 27, exploring AI on Microsoft Azure with an incredible group of engaged participants alongside my Insight colleague, Sadat on Monday!
 
-We dove deep into hashtag#PromptEngineering, hashtag#RAG (Retrieval-Augmented Generation) and exploring powerful services on Azure to build hashtag#AIApp like:
- ✅ Azure hashtag#OpenAI Service
- ✅ hashtag#CosmosDB for MongoDB
+We dove deep into PromptEngineering, RAG (Retrieval-Augmented Generation) and exploring powerful services on Azure to build AIApp like:
+ ✅ Azure OpenAI Service
+ ✅ CosmosDB for MongoDB
  ✅ GPT and Embedding Models
- ✅ hashtag#LangChain
- ✅ hashtag#AzureAIFoundry
- ✅ Azure hashtag#AISearch
- ✅ Azure hashtag#ContentSafety
- ✅ hashtag#DocumentIntelligence Service
+ ✅ LangChain
+ ✅ AzureAIFoundry
+ ✅ Azure AISearch
+ ✅ Azure ContentSafety
+ ✅ DocumentIntelligence Service
 
 ✨The discussions were insightful, the hands-on experience was valuable, and the views from Level 27? Simply stunning! 🌆
 

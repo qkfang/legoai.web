@@ -5,9 +5,9 @@ tags: [ai,microsoft,azure,community,mvp]
 ---
 
 
-Lucky to get #1 🎖️ on Microsoft hashtag#Azure Collectives Monthly Leaderboard on hashtag#StackOverflow ! 🚀 And #3 overall weekly contributor last week! 🎉
+Lucky to get #1 🎖️ on Microsoft Azure Collectives Monthly Leaderboard on StackOverflow ! 🚀 And #3 overall weekly contributor last week! 🎉
 
-I've been diving deep into answering questions, sharing knowledge, and - let's be honest - chasing bounties 💰 (SUPER FUN). Lucky enough to strike 3 BIG bounties in a row: hashtag#AI Speech service, Python hashtag#FunctionApp & hashtag#webjob. And now I feel like a bounty hunter … just like hashtag#Mandalorian 😎
+I've been diving deep into answering questions, sharing knowledge, and - let's be honest - chasing bounties 💰 (SUPER FUN). Lucky enough to strike 3 BIG bounties in a row: AI Speech service, Python FunctionApp & webjob. And now I feel like a bounty hunter … just like Mandalorian 😎
 
 If you're wondering how come my account is only 5 months old … Well, like many of us on the internet, I was taking but not giving. But that changes now. ✨
 

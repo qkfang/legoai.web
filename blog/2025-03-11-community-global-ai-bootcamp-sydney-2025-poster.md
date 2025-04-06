@@ -5,7 +5,7 @@ tags: [ai,microsoft,azure,community,mvp,notice]
 ---
 
 
-Join us at Global AI Bootcamp Sydney this Saturday! 🎤🤖 If you're passionate about hashtag#AI, hashtag#LEGO, and hashtag#Robotics, you won't want to miss talk. I'll be sharing my story: 'LEGO + Python + GPT = The Journey from Dad to Superdad with Azure AI Services' 🌟
+Join us at Global AI Bootcamp Sydney this Saturday! 🎤🤖 If you're passionate about AI, LEGO, and Robotics, you won't want to miss talk. I'll be sharing my story: 'LEGO + Python + GPT = The Journey from Dad to Superdad with Azure AI Services' 🌟
 
 🔥Global AI Bootcamp Sydney: https://lnkd.in/gQGsqvdW
 📅 When? This Saturday - 15th March 2025
