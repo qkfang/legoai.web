@@ -100,3 +100,18 @@ talk:
   label: talk
   permalink: /talk
   description: talk
+
+notice:
+  label: notice
+  permalink: /notice
+  description: notice
+
+community:
+  label: community
+  permalink: /community
+  description: community
+
+mvp:
+  label: mvp
+  permalink: /mvp
+  description: mvp

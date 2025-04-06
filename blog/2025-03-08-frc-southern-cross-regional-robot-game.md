@@ -1,5 +1,5 @@
 ---
-title: 
+title: FIRST Robotics Competition Southern Cross Regional
 authors: qkfang
 tags: [talk,ai]
 ---

@@ -1,7 +1,7 @@
 ---
 title: Global AI Bootcamp Sydney 2025
 authors: qkfang
-tags: [talk,ai]
+tags: [ai,microsoft,azure,community,mvp]
 ---
 
 Global AI Bootcamp Sydney 2025 🌍: Full House of Innovation and Learning today! Sydney's hashtag#AI community came together at Microsoft Reactor Sydney. With 120+ enthusiastic participants, the event was packed with insightful sessions, engaging discussions and pizza🍕 & stickers ! 

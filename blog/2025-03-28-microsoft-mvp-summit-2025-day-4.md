@@ -1,7 +1,7 @@
 ---
-title: 
+title: Microsoft MVP Summit 2025 - Day 4
 authors: qkfang
-tags: [talk,ai]
+tags: [microsoft,community,mvp]
 ---
 
 Last Day @ Microsoft MVP Summit 2025 ! What an incredible week it's been! hashtag#MVPSummit was packed with deep dives, insightful discussions, and direct interactions with the amazing product teams. 

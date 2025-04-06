@@ -1,7 +1,7 @@
 ---
 title: Microsoft MVP Summit 2025 - Day 1
 authors: qkfang
-tags: [talk,ai]
+tags: [microsoft,community,mvp]
 ---
 
 Day 1 @ Microsoft MVP Summit ✨ Just look at all the amazing hashtag#APAC MVPs in the group photo! 🌏 The energy, passion, and talent captured in that moment are simply unforgettable – celebration of community and innovation. 💫

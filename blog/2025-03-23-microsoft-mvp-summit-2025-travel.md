@@ -1,7 +1,7 @@
 ---
-title: Microsoft MVP Summit 2025 - Day -1
+title: Microsoft MVP Summit 2025 - My First Time!
 authors: qkfang
-tags: [talk,ai]
+tags: [microsoft,community,mvp]
 ---
 
 Heading to hashtag#MVPSummit 2025 @ Microsoft Campus in Redmond now - for the very first time! 🎉
@@ -18,3 +18,4 @@ With a heart full of gratitude and excitement, let's go! 🚀
 
 
 https://www.linkedin.com/posts/qkfang_mvpsummit-mcm-microsoft-activity-7309344445060063235-Tbx-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
+

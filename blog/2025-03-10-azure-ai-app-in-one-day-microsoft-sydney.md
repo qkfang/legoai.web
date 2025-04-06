@@ -1,7 +1,7 @@
 ---
-title: 
+title: Azure AI App in One Day at Microsoft Sydney
 authors: qkfang
-tags: [talk,ai]
+tags: [ai,microsoft,azure,ai-app-in-one-day]
 ---
 
 AI App in a Day @ Microsoft Sydney Office ! 🤖 Fantastic day at Room Gaba and Magari on Level 27, exploring AI on Microsoft Azure with an incredible group of engaged participants alongside my Insight colleague, Sadat on Monday!

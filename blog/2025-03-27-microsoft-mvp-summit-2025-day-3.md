@@ -1,7 +1,7 @@
 ---
 title: Microsoft MVP Summit 2025 - Day 3
 authors: qkfang
-tags: [talk,ai]
+tags: [microsoft,community,mvp]
 ---
 
 Day 3 @ Microsoft hashtag#MVPSummit. Really enjoyed Mark Russinovich and Scott Guthrie's sessions today: open, honest, and visionary. Loved the stories and insights, the full house says it all !

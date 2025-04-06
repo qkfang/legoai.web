@@ -1,7 +1,7 @@
 ---
-title: GitHub Copilot Excitement Day with Auto & General
+title: GitHub Copilot Workshop at Auto & General
 authors: qkfang
-tags: [github,ai]
+tags: [ai,microsoft,github,github-copilot]
 ---
 
 🚀 Wrapped up 2x GitHub hashtag#Copilot Training day at Auto & General Australia in Brisbane, just before the incoming hashtag#CycloneAlfred! 🌪️

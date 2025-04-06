@@ -1,7 +1,7 @@
 ---
 title: Microsoft MVP Summit 2025 - Day 0
 authors: qkfang
-tags: [talk,ai]
+tags: [microsoft,community,mvp]
 ---
 
 

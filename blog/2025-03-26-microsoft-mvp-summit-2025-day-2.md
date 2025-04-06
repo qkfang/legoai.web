@@ -1,7 +1,7 @@
 ---
 title: Microsoft MVP Summit 2025 - Day 2
 authors: qkfang
-tags: [talk,ai]
+tags: [microsoft,community,mvp]
 ---
 
 Day 2 @ Microsoft hashtag#MVPSummit! 🔍 Tracked down the legendary hashtag#Clippy 🧷 after 3 days of non-stop searching! Even convinced hashtag#Clippy 🧷 to join the group photo with MVPs from hashtag#Australia & hashtag#NewZealand! All credits go to Elizabeth for making the magic happen. ✨

@@ -1,7 +1,7 @@
 ---
 title: Azure AI App in One Day at Sydney Reactor
 authors: qkfang
-tags: [talk,ai]
+tags: [ai,microsoft,azure,ai-app-in-one-day]
 ---
 
 What a day at Microsoft Reactor hashtag#Sydney! Our AI App in One Day workshop was all about building intelligent app on hashtag#Azure. The energy in the room was electric⚡️, fueled by enthusiastic participants from all levels of experience coming together to hashtag#learn📚, hashtag#code💻, and hashtag#innovate💡!

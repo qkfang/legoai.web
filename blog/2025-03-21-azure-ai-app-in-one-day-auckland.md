@@ -1,7 +1,7 @@
 ---
-title: Azure AI App in One Day at Auckland
+title: Azure AI App in One Day at Microsoft Auckland
 authors: qkfang
-tags: [talk,ai]
+tags: [ai,microsoft,azure,ai-app-in-one-day]
 ---
 
 

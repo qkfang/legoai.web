@@ -1,7 +1,7 @@
 ---
 title: Microsoft MVP Catchup at Chinatown
 authors: qkfang
-tags: [ai]
+tags: [microsoft,community,mvp]
 ---
 
 Catching-up with Tony and Jason (Chuantao), ex-MVPs, over sizzling Korean BBQ 🔥🥩 in Chinatown! We talked tech, passion, life, and of course, their legendary MVPSummit moments at Microsoft Redmond campus. 

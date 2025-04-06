@@ -1,7 +1,7 @@
 ---
 title: Global AI Bootcamp Sydney 2025
 authors: qkfang
-tags: [talk,ai]
+tags: [ai,microsoft,azure,community,mvp,notice]
 ---
 
 
@@ -18,3 +18,5 @@ The Global AI Bootcamp is an annual event that occurs worldwide, where developer
 
 
 https://www.linkedin.com/posts/qkfang_ai-lego-robotics-activity-7305914286269153280-55qC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
+
+

@@ -1,7 +1,7 @@
 ---
-title: 
+title: GitHub Copilot Workshop in Wellington
 authors: qkfang
-tags: [talk,ai]
+tags: [ai,microsoft,github,github-copilot]
 ---
 
 🌧️💨❄️ It was rainy, windy, and cold … but the passion for learning GitHub hashtag#Copilot @ Microsoft Wellington office could not be stopped ! 💙🚀 (the pigeons were shivering🐦🥶 that day - last photo)

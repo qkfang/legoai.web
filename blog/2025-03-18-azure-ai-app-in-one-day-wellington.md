@@ -1,7 +1,7 @@
 ---
-title: Azure AI App in One Day at Wellington
+title: Azure AI App in One Day in at Microsoft Wellington
 authors: qkfang
-tags: [talk,ai]
+tags: [ai,microsoft,azure,ai-app-in-one-day]
 ---
 
 

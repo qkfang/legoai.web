@@ -1,7 +1,7 @@
 ---
-title: 
+title: (Notice) Kicking off AI Journeys at Sydney Computing Society @ Uni of Sydney
 authors: qkfang
-tags: [talk,ai]
+tags: [ai,microsoft,azure,community,mvp,notice]
 ---
 
 
