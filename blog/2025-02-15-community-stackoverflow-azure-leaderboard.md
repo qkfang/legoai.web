@@ -20,4 +20,3 @@ https://www.linkedin.com/posts/qkfang_azure-stackoverflow-ai-activity-7296127658
 ![alt text](images\2025-02-15-community-stackoverflow-azure-leaderboard-2.jpg)
 
 ![alt text](images\2025-02-15-community-stackoverflow-azure-leaderboard-3.jpg)
-

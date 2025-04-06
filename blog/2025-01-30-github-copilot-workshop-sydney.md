@@ -28,5 +28,3 @@ https://www.linkedin.com/posts/qkfang_copilot-githubcopilot-ai-activity-72939122
 ![alt text](images\2025-01-30-github-copilot-workshop-sydney-2.jpg)
 
 ![alt text](images\2025-01-30-github-copilot-workshop-sydney-3.jpg)
-
-

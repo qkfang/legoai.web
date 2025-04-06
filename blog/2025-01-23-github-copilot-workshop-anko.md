@@ -26,6 +26,10 @@ This is just the beginning! AI is revolutionizing app development, and with Azur
 
 https://www.linkedin.com/posts/qkfang_azureai-github-copilot-activity-7290695221107904512-ipa1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASgfsoBmYiw8tp4obmNica7vrvpxPRDwCY
 
+![alt text](images\2025-01-23-github-copilot-workshop-anko-1.jpg)
+
+![alt text](images\2025-01-23-github-copilot-workshop-anko-2.jpg)
+
 ![alt text](images\2025-01-23-github-copilot-workshop-anko-3.jpg)
-![alt text](images\2025-01-23-github-copilot-workshop-anko-4.jpg)
-![alt text](images\2025-01-23-github-copilot-workshop-anko-5.jpg)
+
+
