@@ -1,5 +1,5 @@
 {
-  "name": "my-website",
+  "name": "legoai-net",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -25,8 +25,8 @@
     "clsx": "^2.0.0",
     "docusaurus-plugin-image-zoom": "^3.0.1",
     "prism-react-renderer": "^2.3.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.7.0",
