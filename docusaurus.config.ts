@@ -80,7 +80,7 @@ const config: Config = {
           },
         },
         gtag: {
-          trackingID: 'G-78S3WW4GVW',
+          trackingID: 'G-9XS03JTRHQ',
           anonymizeIP: true,
         },
       } satisfies Preset.Options,
