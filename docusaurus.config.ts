@@ -67,18 +67,18 @@ const config: Config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-        sitemap: {
-          lastmod: 'date',
-          changefreq: 'weekly',
-          priority: 0.5,
-          ignorePatterns: ['/tags/**'],
-          filename: 'sitemap.xml',
-          createSitemapItems: async (params) => {
-            const {defaultCreateSitemapItems, ...rest} = params;
-            const items = await defaultCreateSitemapItems(rest);
-            return items.filter((item) => !item.url.includes('/page/'));
-          },
-        },
+        // sitemap: {
+        //   lastmod: 'date',
+        //   changefreq: 'weekly',
+        //   priority: 0.5,
+        //   ignorePatterns: ['/tags/**'],
+        //   filename: 'sitemap.xml',
+        //   createSitemapItems: async (params) => {
+        //     const {defaultCreateSitemapItems, ...rest} = params;
+        //     const items = await defaultCreateSitemapItems(rest);
+        //     return items.filter((item) => !item.url.includes('/page/'));
+        //   },
+        // },
         gtag: {
           trackingID: 'G-9XS03JTRHQ',
           anonymizeIP: true,
@@ -97,10 +97,10 @@ const config: Config = {
       },
       items: [
         { to: '/blog', label: 'All Blogs', position: 'left' },
-        { to: '/blog/tags/ai', label: 'AI & Azure', position: 'left' },
-        { to: '/blog/tags/robotics', label: 'Robotics', position: 'left' },
         { to: '/blog/tags/fll', label: 'FLL', position: 'left' },
-        { to: '/blog/tags/talk', label: 'Talks', position: 'left' },
+        { to: '/blog/tags/mvp', label: 'MVP', position: 'left' },
+        { to: '/blog/tags/ai-app-in-one-day', label: 'AI App', position: 'left' },
+        { to: '/blog/tags/github', label: 'GitHub', position: 'left' },
         // {
         //   type: 'docSidebar',
         //   sidebarId: 'tutorialSidebar',

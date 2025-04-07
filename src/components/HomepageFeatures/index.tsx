@@ -12,16 +12,6 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Robotics',
-    img: "/img/legoai.png",
-    link: "/blog/tags/robotics",
-    description: (
-      <>
-      Embarked on a robotics journey using the LEGO Spike Prime kit, diving into its Python coding interface and unlocking advanced features like motor control and sensors. Enhance robotics and coding skills through practical application and experimentation. Grow your confidence and curiosity!
-      </>
-    ),
-  },
-  {
     title: 'FIRST LEGO League',
     img: "/img/fll.jpg",
     link: "/blog/tags/fll",
@@ -38,6 +28,16 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
       Share insights from workshops, hackathons, and presentations. Showcase how AI tools like Azure, ChatGPT, and DALL-E can improve learning experiences, especially in fields like robotics and coding. Combine passion with AI technology to create innovative and accessible solutions, both for students and developers alike.
+      </>
+    ),
+  },
+  {
+    title: 'Robotics',
+    img: "/img/legoai.png",
+    link: "/blog/tags/robotics",
+    description: (
+      <>
+      Embarked on a robotics journey using the LEGO Spike Prime kit, diving into its Python coding interface and unlocking advanced features like motor control and sensors. Enhance robotics and coding skills through practical application and experimentation. Grow your confidence and curiosity!
       </>
     ),
   },
