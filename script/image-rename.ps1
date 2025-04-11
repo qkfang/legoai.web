@@ -22,7 +22,8 @@ $MarkdownDir = Split-Path -Path $MarkdownFile
 $MarkdownBaseName = [System.IO.Path]::GetFileNameWithoutExtension($MarkdownFile)
 
 # Initialize a counter for sequence numbers
-$Counter = 1
+$Counter = 0
+$CounterUpdate = 0
 
 # Regex to match ![alt text](xxx) tags
 $ImageRegex = '!\[.*?\]\((.*?)\)'
@@ -30,6 +31,9 @@ $ImageRegex = '!\[.*?\]\((.*?)\)'
 # Process each match in a loop
 $MatchList = [regex]::Matches($MarkdownContent, $ImageRegex)
 foreach ($Match in $MatchList) {
+    # Increment the counter
+    $Counter++
+
     $ImagePath = $Match.Groups[1].Value
 
     # Get the full path of the image
@@ -38,6 +42,8 @@ foreach ($Match in $MatchList) {
     if (-Not (Test-Path $FullImagePath)) {
         Write-Host "Image file not found: $FullImagePath"
     }
+
+    $CounterUpdate++
 
     # Generate the new image name
     $ImageExtension = [System.IO.Path]::GetExtension($ImagePath)
@@ -48,14 +54,12 @@ foreach ($Match in $MatchList) {
     # Rename the image file
     Rename-Item -Path $FullImagePath -NewName $NewImageName
 
-    # Increment the counter
-    $Counter++
-
     # Update the markdown content
-    $MarkdownContent = $MarkdownContent -replace [regex]::Escape($ImagePath), "images\$NewImageName"
+    $MarkdownContent = $MarkdownContent -replace [regex]::Escape($ImagePath), "images/$NewImageName"
 }
 
 # Write the updated content back to the markdown file
-Set-Content -Path $MarkdownFile -Value $MarkdownContent
-
-Write-Host "Image renaming and markdown update completed successfully."
+if ($CounterUpdate -gt 0) {
+    Set-Content -Path $MarkdownFile -Value $MarkdownContent
+    Write-Host "Image renaming and markdown update completed successfully."
+}

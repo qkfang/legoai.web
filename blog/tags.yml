@@ -66,10 +66,10 @@ azure:
   permalink: /azure
   description: azure
 
-ai-app-in-one-day:
-  label: ai-app-in-one-day
-  permalink: /ai-app-in-one-day
-  description: ai-app-in-one-day
+ai-app-in-a-day:
+  label: ai-app-in-a-day
+  permalink: /ai-app-in-a-day
+  description: ai-app-in-a-day
 
 github:
   label: github

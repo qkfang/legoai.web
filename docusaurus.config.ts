@@ -99,7 +99,7 @@ const config: Config = {
         { to: '/blog', label: 'All Blogs', position: 'left' },
         { to: '/blog/tags/fll', label: 'FLL', position: 'left' },
         { to: '/blog/tags/mvp', label: 'MVP', position: 'left' },
-        { to: '/blog/tags/ai-app-in-one-day', label: 'AI App', position: 'left' },
+        { to: '/blog/tags/ai-app-in-a-day', label: 'AI App', position: 'left' },
         { to: '/blog/tags/github', label: 'GitHub', position: 'left' },
         // {
         //   type: 'docSidebar',
