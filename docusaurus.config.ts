@@ -146,7 +146,7 @@ const config: Config = {
           items: [
             {
               label: 'About',
-              to: '/blog/2022/01/01/about',
+              to: '/about',
             },
           ],
         },
