@@ -32,8 +32,9 @@
 .img-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr); /* Default: 3 equal columns */
-  gap: 16px; /* Adds spacing between grid items */
+  gap: 5px; /* Adds spacing between grid items */
   padding: 16px; /* Adds padding around the grid */
+  border-radius: 10px; 
 }
 
 /* Adjust grid for medium screens (e.g., tablets) */
@@ -53,6 +54,19 @@
 .img-item {
   background-color: #f0f0f0; /* Light gray background for items */
   border: 1px solid #ccc; /* Border for visual separation */
-  padding: 16px; /* Padding inside each grid item */
+  padding: 8px; /* Padding inside each grid item */
   text-align: center; /* Centers text inside the grid item */
+  border-radius: 8px; 
+}
+
+.img-item img {
+  border-radius: 8px; 
+}
+
+h1.title_f1Hy {
+  font-size: 2.5rem;
+}
+
+h2.title_f1Hy {
+  font-size: 2.5rem;
 }
