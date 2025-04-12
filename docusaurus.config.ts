@@ -101,6 +101,7 @@ const config: Config = {
         { to: '/blog/tags/mvp', label: 'MVP', position: 'left' },
         { to: '/blog/tags/ai-app-in-a-day', label: 'AI App', position: 'left' },
         { to: '/blog/tags/github', label: 'GitHub', position: 'left' },
+        { to: '/blog/archive', label: 'Archive', position: 'left' },
         // {
         //   type: 'docSidebar',
         //   sidebarId: 'tutorialSidebar',
