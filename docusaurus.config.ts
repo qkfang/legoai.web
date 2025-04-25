@@ -97,6 +97,7 @@ const config: Config = {
       },
       items: [
         { to: '/blog', label: 'All Blogs', position: 'left' },
+        { to: '/blog/tags/notice', label: 'Notice', position: 'left' },
         { to: '/blog/tags/fll', label: 'FLL', position: 'left' },
         { to: '/blog/tags/mvp', label: 'MVP', position: 'left' },
         { to: '/blog/tags/ai-app-in-a-day', label: 'AI App', position: 'left' },
